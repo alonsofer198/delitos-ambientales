@@ -10,6 +10,15 @@
 .fondo-negro{
     background: #3B3D3F;
     padding: 15vh 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #63BC76;
+
 }
 
 .fondo-negro .container{
@@ -23,8 +32,18 @@
 .fondo-verde .cuadrado{
     background: #63BC76;
     padding: 25px;
+    margin-bottom: 15px;
+    width: 280.6px;
+    height: 250.48px;
+    left: -235px;
+    top: 591px;
+    color: white;
+    text-align: center;
 }
 
+.cabecera{
+    color:#63BC76;
+}
 .imagen{
     width: 448px;
     height: 495px;
@@ -79,4 +98,20 @@
     /* or 103% */
     text-align: center;
     color: #2B8C1B;
+}
+
+.texto{
+    width: 223px;
+    height: 73px;
+    left: -211px;
+    top: 746px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+    padding: 40px;
+    margin: 15px;
+
+color: #FFFFFF;
 }
