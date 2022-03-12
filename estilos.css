@@ -1,3 +1,4 @@
+/* ESTILOS DEL HOME*/  
 .container-fluid {
 	font-size:17px;
 	color:#777777;
@@ -160,13 +161,74 @@
     color: #7B807B;
 }
 
-.rectangulo4{
-    width: 242px;
-    height: 35px;    
-    padding: 5px;    
+.centrado .rectangulo4{
+    width: 270px;
+    height: 35px;
+    background: #63BC76; 
     text-align: center;
     color: white;
-    float:right; 
-    background: #63BC76;
-    border-radius: 6px;   
+    padding: 5px; 
+    border-radius: 5px;
+    font-size: 17px;  
+}
+
+/* ESTILOS DE FORESTALES*/  
+
+.fondo-negro3{   
+    width: 1400px;
+    height: 0;
+    padding: 30px;     
+    background: #777777;
+    margin-bottom: 50px;
+}
+
+.fondo-blanco{
+    background: #FFFFFF;
+}
+
+.fondo-negro4{   
+    width: 1400px;
+    height: 0;
+    padding: 30px;     
+    background:  #1F1B1B;;
+
+}
+
+.fondo-verde4{
+    background: #3E9350;
+    width: 1400px;    
+    padding: 60px; 
+ 
+}
+
+.texto1{
+    width: 348px;
+    height: 62px;
+    color: #FFFFFF;
+}
+.texto3{
+    font-family: 'Roboto';
+    width: 404px;
+    height: 44px;   
+    font-size: 14px;   
+    color: #FFFFFF;
+}
+
+.fondo-verde5{
+    background:#317540;
+    width: 1400px;    
+    padding: 60px;
+}
+
+.texto4{
+    font-family: 'Roboto';
+    height: 44px;   
+    font-size: 14px;   
+    color: #FFFFFF;   
+    line-height: 20px;    
+    font-style: normal;
+    font-weight: normal;  
+    text-align: center;
+    text-transform: uppercase;
+    
 }
