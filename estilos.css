@@ -232,3 +232,106 @@
     text-transform: uppercase;
     
 }
+
+.fondo-negro5{   
+    padding: 30px;     
+    background:  #1F1B1B;;
+    width: 1477px;
+    height: 740px;
+}
+
+.texto5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+    font-size: 18px;
+    line-height: 31px;
+    color: #3E9350;
+}
+
+.texto6{
+    font-family: 'Roboto';
+    height: 44px;   
+    font-size: 14px;   
+    color: white;   
+    line-height: 20px;    
+    font-style: normal;
+    font-weight: normal;  
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.texto8{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: normal;
+    
+}
+
+.texto9{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+    font-size: 17px;
+    line-height: 31px;
+    color: #3E9350;
+}
+
+
+.fondo-blanco2{     
+        padding: 30px;     
+        background:  white;
+        width: 1477px;
+        height: 570px;
+}
+
+.menu1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;    
+    font-size: 17px;
+    line-height: 31px;
+    color: #2B8C1B;
+}
+
+.menu2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    
+    font-size: 17px;
+    line-height: 31px;
+    color: #3B3D3F,
+}
+
+.linea{
+    width: 943px;
+    height: 0px;
+    border: 1px solid #000000;
+}
+
+.page{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+    font-size: 17px;
+    line-height: 31px;
+    color:  #8D9397;
+}
+
+.fondo-negro6{   
+    padding: 30px;     
+    background:  #1F1B1B;;
+    width: 1477px;
+    height: 83px;
+   
+}
