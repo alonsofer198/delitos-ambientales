@@ -100,7 +100,7 @@ color: #FFFFFF;
 
 .cuadrado2{
     background: white;
-    padding: 65px;
+    padding: 85px 0;;
     margin-bottom: 15px;
     
     height: 250.48px;
@@ -145,6 +145,7 @@ color: #FFFFFF;
         background: #5cb85c;
         left: 190px;
         top: 1421px;
+        
        
 }
 
@@ -171,7 +172,7 @@ color: #2B8C1B;
 
 .texto-verde{
     text-align: justify;
-   
+    padding: 85px 0;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
