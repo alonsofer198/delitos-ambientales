@@ -124,18 +124,19 @@ margin-top: 50px;
 color: #FFFFFF;
 }
 
-.cabecera{
-    color:#63BC76;
+.cabecera {
+    color: #63BC76;
     font-weight: 700;
     font-size: 17px;
     line-height: 20px;
     width: 208px;
-    height: 40px;
-    left: -415px;
-    top: 164px;
+    height: 83px;
+    left: -393px;
+    top: 308px;
     text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
-
 .circulo2{
         width: 73px;
         height: 74px;
