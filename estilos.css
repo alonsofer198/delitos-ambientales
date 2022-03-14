@@ -30,11 +30,6 @@
 }
 
 .submenu{
-    width: 205px;
-    height: 17px;
-    left: -158px;
-    top: 376px;
-    
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -95,7 +90,7 @@ color: #FFFFFF;
     background: #63BC76;
     padding: 65px;
     margin-bottom: 15px;
-    width: 280.6px;
+    width: 100%;
     height: 250.48px;
     left: -235px;
     top: 591px;
@@ -173,18 +168,10 @@ color: #2B8C1B;
     font-weight: bold;
 }
 
-.imagen{
-    width: 448px;
-    height: 495px;
-    left: -323px;
-    top: 1218px
-}
+
 .texto-verde{
     text-align: justify;
-    width: 594px;
-    height: 129px;
-    left: 190px;
-    top: 1220px;
+   
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -192,7 +179,7 @@ color: #2B8C1B;
     line-height: 20px;
     /* or 172% */
     color: #2B8C1B;
-    padding-left: 190px;
+   
     
 }
 .listado{
@@ -282,6 +269,7 @@ color: #2B8C1B;
     background: #777777;
 }
 
+
 .texto2{
     font-family: Roboto;
     text-align: center;    
@@ -304,11 +292,13 @@ color: #2B8C1B;
 /* ESTILOS DE FORESTALES*/  
 
 .fondo-negro3{   
-    width: 1400px;
     height: 0;
-    padding: 30px;     
-    background: #777777;
-    margin-bottom: 50px;
+    padding: 200px;     
+    background: #777777;    
+height: 295px;
+left: -524px;
+top: 3738px;
+    
 }
 
 .fondo-blanco{
