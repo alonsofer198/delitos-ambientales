@@ -18,8 +18,66 @@
     line-height: 20px;
     text-align: center;    
     color: #63BC76;  
+    height: 402px;
 
    
+}
+
+.rectangulo {
+    width: 975px;
+    height: 47px;
+    background: rgba(120, 102, 102, 0.5);
+    border-radius: 3px;
+}
+
+.filtro1{
+    left: 0%;
+right: 8.99%;
+top: 0%;
+bottom: 93.76%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 31px;
+/* or 194% */
+
+text-transform: uppercase;
+
+color: #63BC76;
+}
+
+.filtro2{
+    left: 8.63%;
+right: 27.34%;
+top: 10.11%;
+bottom: 86.45%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 30px;
+
+color: #AFAFAF;
+}
+
+.filtro3{
+    left: 14.03%;
+right: 17.27%;
+top: 16.77%;
+bottom: 75.48%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #3B3D3F;
+
+
 }
 
 .d-flex{
@@ -63,6 +121,12 @@ color: #FFFFFF;
 
 .fondo-verde{
     padding:  15vh 0;
+    background: #000000;
+}
+
+.fondo-explora1{
+    padding:  6vh 0;
+    background: white;
 }
 
 .fondo-blanco{    
@@ -72,18 +136,12 @@ color: #FFFFFF;
 }
 
 .fondo-verde3{
-    background: #63BC76;
-    
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     line-height: 20px;
-    text-align: center;    
-    
-
-    
-
+    text-align: center;  
 }
 
 .cuadrado{
@@ -99,16 +157,28 @@ color: #FFFFFF;
 }
 
 .cuadrado2{
-    background: white;
+    background: #63BC76;
     padding: 85px 0;;
-    margin-bottom: 15px;
-    
-    height: 250.48px;
+    margin-bottom: 15px;   
     left: -235px;
     top: 591px;
     color: black;
+    text-align: center; 
+    width: 280.6px;
+    height: 250.48px;  
+}
+
+.cuadrado3{
+    background: #63BC76;
+    padding: 85px 0;;
+    margin-bottom: 15px;    
+    height: 250.48px;
+    left: -235px;
+    top: 591px;
+    color: white;
     text-align: center;   
 }
+
 
 .textos{
     width: 185px;
@@ -184,6 +254,21 @@ color: #2B8C1B;
    
     
 }
+
+.boton-plomo{
+    text-align: justify;
+    padding: 33px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    /* or 172% */
+    color: #2B8C1B;
+   
+    
+}
+
 .listado{
     font-family: Roboto;
     font-style: normal;
@@ -482,4 +567,14 @@ top: 3738px;
     line-height: 20px;
     text-transform: uppercase;
     color: #63BC76;
+}
+
+/* ESTILOS DE EXPLORAR*/  
+
+.subfondo-verde{
+    background: #63BC76;
+}
+
+.subfondo-negro{
+    background: black;
 }
