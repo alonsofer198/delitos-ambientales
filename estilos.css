@@ -53,6 +53,21 @@
     border-radius: 0;
 }
 
+.boton {
+    width: 62px;
+    height: 28px;
+    background: #3B3D3F;
+    border-radius: 3px;
+    margin-bottom: 17px;
+    border-radius: 0;
+    margin-left: auto;
+    margin: auto;
+    color: #FFFFFF;
+
+    
+}
+
+
 .dowload{
     width: 1300px;
     /* height: 15px; */
@@ -136,7 +151,7 @@ color: #3B3D3F;
 
 .resultado{
     width: 167px;
-height: 43px;
+height: 70px;
 left: 496px;
 top: 423px;
 
@@ -397,7 +412,7 @@ color: #2B8C1B;
 }
 
 .resultado{
-    height: 31px;
+    height: 75px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
