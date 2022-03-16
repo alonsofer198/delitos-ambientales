@@ -351,6 +351,35 @@ color: #2B8C1B;
     float: right;   
 }
 
+.actor{  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    line-height: 31px;
+    text-align: center;
+    color: #000000;
+}
+
+.descripcion{
+    height: 31px;
+    color:#2B8C1B;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+}
+
+.resultado{
+    height: 31px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    color: #3B3D3F;
+}
+
 .rectangulo2{
     width: 242px;
     height: 35px;    
