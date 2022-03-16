@@ -1,3 +1,9 @@
+/* General */
+
+.container {
+    max-width: 1120px;
+}
+
 /* ESTILOS DEL HOME*/  
 .container-fluid {
 	font-size:17px;
@@ -24,11 +30,12 @@
 }
 
 .rectangulo {
-    width: 975px;
-    height: 47px;
+    width: 100%;
+    height: 30px;
     background: rgba(120, 102, 102, 0.5);
     border-radius: 3px;
     margin-bottom: 40px;
+    border-radius: 0;
 }
 
 .dowload{
@@ -342,13 +349,14 @@ color: #2B8C1B;
 }
 
 .rectangulo1{
-    width: 242px;
+    width: 100%;
     height: 35px;
     background: #4F4646;   
     text-align: center;
     color: white;
     padding: 5px; 
-    float: right;   
+    float: right;
+    border-radius: 0;
 }
 
 .actor{  
