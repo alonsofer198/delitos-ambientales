@@ -684,3 +684,28 @@ top: 3738px;
 .subfondo-negro{
     background: black;
 }
+
+.fondoverde{
+    width: 1290px;
+    height: 196px;
+    background: #317540;
+}
+
+.pvector{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.fondonegro{
+    width: 1290px;
+height: 402px;
+
+background: #3B3D3F;
+}
