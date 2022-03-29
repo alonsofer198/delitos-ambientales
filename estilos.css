@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
 /* General */
 
 .container {
@@ -136,7 +137,7 @@ color: #3B3D3F;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 15px;
     line-height: 20px;
     text-align: center;
     /* text-transform: uppercase; */
@@ -144,19 +145,18 @@ color: #3B3D3F;
 }
 
 .resultado {
-    /* width: 167px; */
-    height: 70px;
-    left: 496px;
-    top: 423px;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 900px;
     font-size: 25px;
-    line-height: 43px;
     color: #FFFFFF;
     font-weight: bold;
+    line-height: 35px;
 }
 
+.contenedorcuadrado{
+    position: relative;
+    top: -150px;
+}
 
 .fondo-negro .container{
     max-width: 920px;
