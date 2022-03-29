@@ -1022,3 +1022,10 @@ font-size: 18px;
 line-height: 31px;
 color: #000000;
 }
+
+.menus{
+    color: black;
+    /* font-weight: bold; */
+    font-size: 14px;
+    font-weight: 400px;
+}
