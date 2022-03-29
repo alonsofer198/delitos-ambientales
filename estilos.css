@@ -394,26 +394,22 @@ color: #2B8C1B;
     color: #000000;
 }
 
-
-
-.descripcion{
+.descripcion {
     height: 31px;
-    color:#2B8C1B;
+    color: #2B8C1B;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 31px;
-
-    
+    font-size: 14px;
+    /* line-height: 31px; */
 }
 
 .descripcion1 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 31px;
+    font-size: 14px;
+    /* line-height: 31px; */
     padding-right: 13px;
     color: #3B3D3F;
 }
@@ -422,8 +418,8 @@ color: #2B8C1B;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 31px;
+    font-size: 14px;
+    /* line-height: 31px; */
     padding-right: 83px;
     color: #3B3D3F;
 }
@@ -432,11 +428,11 @@ color: #2B8C1B;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 31px;
+    font-size: 14px;
+    /* line-height: 31px; */
     /* padding-right: 43px; */
     color: #3B3D3F;
-    padding-top: 26px;
+    padding-top: -6px;
 }
 
 .resultado{
