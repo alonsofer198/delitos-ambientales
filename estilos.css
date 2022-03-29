@@ -57,11 +57,10 @@
     border-radius: 3px;
     margin-bottom: 17px;
     border-radius: 0;
-    margin-left: auto;
-    margin: auto;
+    margin-left: 112px;
+    /* margin: 15px; */
     color: #FFFFFF;
-    
-    
+    margin-top: 20px;
 }
 
 
@@ -409,24 +408,35 @@ color: #2B8C1B;
     
 }
 
-.descripcion1{
+.descripcion1 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 31px;
-    padding-right: 132px;
-    color: #3B3D3F;    
+    padding-right: 13px;
+    color: #3B3D3F;
 }
 
-.descripcion2{
+.descripcion2 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 31px;
-    padding-right: 132px;
-    color: #3B3D3F;    
+    padding-right: 83px;
+    color: #3B3D3F;
+}
+
+.descripcion3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    /* padding-right: 43px; */
+    color: #3B3D3F;
+    padding-top: 26px;
 }
 
 .resultado{
