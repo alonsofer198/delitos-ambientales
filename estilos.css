@@ -405,6 +405,28 @@ color: #2B8C1B;
     font-weight: 400;
     font-size: 18px;
     line-height: 31px;
+
+    
+}
+
+.descripcion1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    padding-right: 132px;
+    color: #3B3D3F;    
+}
+
+.descripcion2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    padding-right: 132px;
+    color: #3B3D3F;    
 }
 
 .resultado{
@@ -984,4 +1006,13 @@ color: #FFFFFF;
     border-color: #212529;
     /* margin-right: 30px; */
     float: right;
+}
+
+.nombreactor{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 31px;
+color: #000000;
 }
