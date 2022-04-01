@@ -1009,18 +1009,18 @@ background: #FFFFFF;
     background: #FFFFFF;
 }
 
-.textoexplora2 {
+.textografico {
     padding: 51px;
-    width: 516px;
-    top: 734px;
+    width: 370px;
+    /* top: 734px; */
     font-style: normal;
     font-size: 17px;
-    color: #3B3D3F;
-    padding-top: 25px;
+    color: #FFFFFF;
+    padding-top: 11px;
     margin-bottom: -7px;
     padding-right: 148px;
-    margin: 64px;
-    padding-bottom: 30px;
+    margin: 41px;
+    /* padding-bottom: 30px; */
 }
 
 
