@@ -55,6 +55,19 @@
     text-align: center;
 }
 
+.fondolegalidad{
+    
+    background: #317540;
+        padding: 82px 0;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 20px;
+        text-align: center;
+    
+}
+
 .fondo-negrito{
     background: #3B3D3F;
     padding: 85px 0;
@@ -1012,15 +1025,13 @@ background: #FFFFFF;
 .textografico {
     padding: 51px;
     width: 370px;
-    /* top: 734px; */
     font-style: normal;
     font-size: 17px;
     color: #FFFFFF;
     padding-top: 11px;
     margin-bottom: -7px;
     padding-right: 148px;
-    margin: 41px;
-    /* padding-bottom: 30px; */
+    margin: 41px;    
 }
 
 
